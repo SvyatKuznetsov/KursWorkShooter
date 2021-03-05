@@ -1,0 +1,16 @@
+release/bigEnemy.o
+release/bullet.o
+release/bulletexplosion.o
+release/customscene.o
+release/game.o
+release/littleEnemy.o
+release/main.o
+release/player.o
+release/qrc_res.o
+release/moc_bigEnemy.o
+release/moc_bullet.o
+release/moc_bulletexplosion.o
+release/moc_customscene.o
+release/moc_enemy.o
+release/moc_littleEnemy.o
+release/moc_player.o

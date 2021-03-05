@@ -1,0 +1,16 @@
+debug/bigEnemy.o
+debug/bullet.o
+debug/bulletexplosion.o
+debug/customscene.o
+debug/game.o
+debug/littleEnemy.o
+debug/main.o
+debug/player.o
+debug/qrc_res.o
+debug/moc_bigEnemy.o
+debug/moc_bullet.o
+debug/moc_bulletexplosion.o
+debug/moc_customscene.o
+debug/moc_enemy.o
+debug/moc_littleEnemy.o
+debug/moc_player.o
